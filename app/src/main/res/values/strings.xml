@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GitHub User</string>
+    <string name="search_bar_hint">Search GitHub User</string>
+    <string name="search_view_hint">Enter a Character</string>
+    <string name="favorite">Favorite</string>
+    <string name="setting">Setting</string>
+    <string name="share">Share</string>
+    <string name="switch_theme">Switch Theme</string>
+    <string name="light_mode">Light Mode</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="name">Name</string>
+    <string name="username">Username</string>
+    <string name="tab_layout">Followers and Following</string>
+    <string name="followers">Followers</string>
+    <string name="repositories">Repositories</string>
+    <string name="following">Following</string>
+</resources>
